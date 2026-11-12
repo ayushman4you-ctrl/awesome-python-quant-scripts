@@ -1,8 +1,10 @@
-# 📈 PyQuant Library: 100+ Python Scripts for Banking, Quant Finance & Algo Trading
+# 📈 126+ Python Scripts for Banking, Quant Finance & Algo Trading (with Live Quant Terminal)
 
 Welcome to the official master index for **PyQuant Library** — a comprehensive, production-grade collection of standalone Python scripts covering core banking, credit risk, quantitative finance, technical indicators, financial statement analysis, and data automation.
 
-🌐 **Live Web Library (Browse & Copy All Scripts Free):** [https://pyquant-library.netlify.app](https://pyquant-library.netlify.app)
+* 🌐 **Live Web Library (Browse & Copy All Scripts Free):** [https://pyquant-library.netlify.app](https://pyquant-library.netlify.app)
+* 🧮 **Live Browser Calculators (Position Sizer, Black-Scholes Greeks & FOIR):** [https://pyquant-library.netlify.app](https://pyquant-library.netlify.app)
+* 📦 **Download Complete 126-Script Engineer ZIP Bundle ($19):** [https://ayushman534.gumroad.com/l/glqggz](https://ayushman534.gumroad.com/l/glqggz)
 
 ---
 
@@ -16,6 +18,7 @@ Welcome to the official master index for **PyQuant Library** — a comprehensive
 ## 📂 Complete Script Directory (Click Any Script to View Code)
 
 ### 1. Core Banking, Credit Risk & Financial Modeling
+* [Multi-Asset Portfolio Optimization via Sharpe Ratio Maximization in Python](https://pyquant-library.netlify.app/library/multi-asset-portfolio-optimization-sharpe-ratio/)
 * [Accounts Receivable Aging Bucket Report (0-30-60-90)](https://pyquant-library.netlify.app/library/accounts-receivable-aging-bucket-report-0-30-60-90-python/)
 * [Altman Z-Score Bankruptcy Prediction Model](https://pyquant-library.netlify.app/library/altman-z-score-bankruptcy-prediction-python/)
 * [Beneish M-Score Earnings Manipulation Detector](https://pyquant-library.netlify.app/library/beneish-m-score-earnings-manipulation-detector-python/)
